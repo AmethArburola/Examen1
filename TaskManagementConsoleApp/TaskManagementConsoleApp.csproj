@@ -8,3 +8,6 @@
   </PropertyGroup>
 
 </Project>
+<ItemGroup>
+    <ProjectReference Include="..\TaskManagementLibrary\TaskManagementLibrary.csproj" />
+</ItemGroup>
